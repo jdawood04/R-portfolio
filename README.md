@@ -1,6 +1,6 @@
 # Welcome to my R portfolio :)
 
-**Name of file**: _Dawood_week6.rmd_
+**Name of file**: _Dawood_week6.Rmd_
 
 **What it does**: This file contains R code structured to create several publication-quality visualizations using the ggplot2 and palmerpenguins packages. Specifically, it includes:
 
@@ -12,4 +12,4 @@
 
 **Purpose**: This file was created for a course assignment to demonstrate skills in data visualization and statistical analysis. It required creating complex plots to analyze and present relationships in the **palmerpenguins** dataset, highlighting proficiency in R programming, and effective data communication techniques.
 
-**Name of file**: _Function Draft #2_
+**Name of file**: _Function Draft #2.Rmd_
