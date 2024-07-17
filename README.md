@@ -1,4 +1,4 @@
-# Welcome to my R portfolio
+# Welcome to my R portfolio :)
 
 **Name of file**: _Dawood_week6.rmd_
 
