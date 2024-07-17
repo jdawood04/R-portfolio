@@ -1,6 +1,6 @@
 # Welcome to my R portfolio
 
-**Name of file**: Dawood_week6.rmd
+**Name of file**: _Dawood_week6.rmd_
 
 **What it does**: This file contains R code structured to create several publication-quality visualizations using the ggplot2 and palmerpenguins packages. Specifically, it includes:
 
