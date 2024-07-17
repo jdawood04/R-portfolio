@@ -1,8 +1,8 @@
 # Welcome to my R portfolio
 
-<u>Name of file</u>: Dawood_week6.rmd
+**Name of file**: Dawood_week6.rmd
 
-<u>What it does</u>: This file contains R code structured to create several publication-quality visualizations using the ggplot2 and palmerpenguins packages. Specifically, it includes:
+**What it does**: This file contains R code structured to create several publication-quality visualizations using the ggplot2 and palmerpenguins packages. Specifically, it includes:
 
 - A violin plot showing the relationship between penguin flipper length and sex.
 - A faceted violin plot to display flipper length differences across species while distinguishing between sexes.
