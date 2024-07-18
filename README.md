@@ -10,7 +10,7 @@ _**What it does**_: This file contains R code structured to create several publi
 - Customizations such as removing the default gray background, adding custom axis titles, and applying a custom color palette.
 - Combining multiple plots into one comprehensive figure using the cowplot package.
 
-_**Purpose**_: This file was created for a course assignment to demonstrate skills in data visualization and statistical analysis. It required creating complex plots to analyze and present relationships in the **palmerpenguins** dataset, highlighting proficiency in R programming, and effective data communication techniques.
+_**Purpose**_: This file was created for a course assignment to demonstrate skills in data visualization and statistical analysis. It required creating complex plots to analyze and present relationships in the **`palmerpenguins`** dataset, highlighting proficiency in R programming, and effective data communication techniques.
 
 ## _**Name of file**_: _`Function Draft #2.Rmd`_
 
