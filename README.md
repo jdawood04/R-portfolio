@@ -1,6 +1,6 @@
 # Welcome to my R portfolio :)
 
-## _**Name of file**_: _`Dawood_week6.Rmd`_
+## _**Name of file**_: _`BIO 316 Homework #6.Rmd`_
 
 _**What it does**_: This file contains R code structured to create several publication-quality visualizations using the **`ggplot2`** and **`palmerpenguins`** packages. Specifically, it includes:
 
