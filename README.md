@@ -12,7 +12,7 @@ _**What it does**_: This file contains R code structured to create several publi
 
 _**Purpose**_: This file was created for a course assignment to demonstrate skills in data visualization and statistical analysis. It required creating complex plots to analyze and present relationships in the **`palmerpenguins`** dataset, highlighting proficiency in R programming, and effective data communication techniques.
 
-## _**Name of file**_: _`Function Draft #2.Rmd`_
+## _**Name of file**_: _`BIO 316 Function Tutorial.Rmd`_
 
 _**What it does**_: This file contains R code for three functions utilizing the **`AdvancedBasketballStats`** and **`NBAloveR`** packages. It demonstrates how to aggregate individual player statistics into team statistics, obtain comprehensive historical performance data for a specific NBA team, and retrieve detailed salary information for players on a specific NBA team. The file includes multiple sections, each showcasing a different function:
 
